@@ -1,9 +1,46 @@
-﻿#  कोडिंग साक्षात्कार विश्वविद्यालय
+#  कोडिंग साक्षात्कार विश्वविद्यालय
 >मैने मूल रूप से इसे एक सॉफ़्टवेयर इंजीनियर बनने के लिए अध्ययन विषयों की एक छोटी सी सूची के रूप में बनाया था, लेकिन यह आज एक बड़ी सूची में बढ़ी है। इस अध्ययन योजना के माध्यम से जाने के बाद, [मुझे अमेज़ॅन पर सॉफ़्टवेयर डेवलपमेंट इंजीनियर के रूप में काम पर रखा गया है !](https://startupnextdoor.com/ive-been-acquired-by->amazon/?src=ciu) आपको संभवतः जितना मैंने किया उतना नहीं पढ़ना होगा। वैसे भी, आपको जो भी चाहिए वह यहां है
 >
 >यहां सूचीबद्ध आइटम आपको किसी साफ्टवेयर कंपनी के बारे में साक्षात्कार में अच्छी तरह से तैयार करेंगे, जिनमें दिग्गज, अमेज़ॅन, फेसबुक, गूगल या माइक्रोसॉफ्ट शामिल हैं।
 >
 >आपको शुभकामनाएं!
+
+<div align="center">
+	<hr />
+    <p>
+        <a href="https://github.com/sponsors/jwasham"><strong>स्पोंसर बने </strong> और कोडिंग इंटरव्यू यूनिवर्सिटी का समर्थन करे!</a>
+    </p>
+    <p>
+        <strong>इन सब को विशेष धन्यवाद:</strong>
+    </p>
+    <p>
+        <a href="https://oss.capital/">
+            <div>
+                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/oss-capital.svg" width="350" alt="OSS Capital">
+            </div>
+            <div>
+                <sup><strong>2018 में स्थापित, OSS Capital पहला और एकमात्र उद्यम पूंजी मंच है जो विशेष रूप से <br> प्रारंभिक चरण COSS (वाणिज्यिक ओपन सोर्स) स्टार्टअप संस्थापकों का समर्थन करने पर केंद्रित है।</strong></sup>
+            </div>
+        </a>
+    </p>
+    <br />
+    <p>
+        <a href="https://www.gitpod.io/?utm_campaign=jwasham&utm_medium=referral&utm_content=coding-interview-university&utm_source=github">
+            <div>
+                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/gitpod-logo-light-theme.svg" width="300" alt="Gitpod">
+            </div>
+            <div>
+                <p>
+                    <strong>Dev environments built for the cloud</strong>
+                </p>
+            </div>
+            <div>
+                <sup> GitLab, GitHub, और Bitbucket के साथ मूल रूप से एकीकृत, Gitpod स्वचालित रूप से और आपकी सभी शाखाओं के लिए लगातार देव वातावरण का निर्माण करता है। जिसके वजह से टीम के सदस्य प्रत्येक नए कार्य के लिए तुरंत नए देव वातावरण के साथ कोडिंग शुरू कर सकते हैं - चाहे आप कोई नई सुविधा बना रहे हों, बग को ठीक करना चाहते हों, या कोड समीक्षा पर काम करना चाहते हों। </sup>
+            </div>
+        </a>
+    </p>
+    <hr />
+</div>
 
 ## यह क्या है?
 यह एक बड़ी कंपनी के लिए सॉफ्टवेयर इंजीनियर को वेब डेवलपर (स्वयं सिखाया, कोई सीएस डिग्री नहीं) से जाने के लिए मेरी बहु-महीने की अध्ययन योजना है
@@ -56,21 +93,21 @@
 - [और अधिक जानकारी](#even-more-knowledge)
     - [रिकर्शन](#recursion)
     - [डायनामिक प्रोग्रामिंग](#dynamic-programming)
-    - [Combinatorics (n choose k) & Probability](#combinatorics-n-choose-k--probability)
-    - [NP, NP-Complete and Approximation Algorithms](#np-np-complete-and-approximation-algorithms)
+    - [साहचर्य (Combinatorics) (n choose k) & संभावना](#combinatorics-n-choose-k--probability)
+    - [NP, NP-Complete और सन्निकटन एल्गोरिदम](#np-np-complete-and-approximation-algorithms)
     - [गार्बेज कलेक्शन](#garbage-collection)
-    - [Caches](#caches)
+    - [कैश(Caches)](#caches)
     - [प्रोसेस और थ्रेड](#processes-and-threads)
-    - [System Design, Scalability, Data Handling](#system-design-scalability-data-handling)
-    - [Papers](#papers)
-    - [Unicode](#unicode)
-    - [Emacs और vi(m)](#emacs-and-vim)
-    - [Unix command line उपकरण](#unix-command-line-tools)
+    - [सिस्टम डिज़ाइन, स्केलेबिलिटी, डेटा हैंडलिंग](#system-design-scalability-data-handling)
+    - [पेपर्स](#papers)
+    - [यूनिकोड](#unicode)
+    - [Emacs और vim](#emacs-and-vim)
+    - [Unix कमांड लाइन उपकरण](#unix-command-line-tools)
     - [परिक्षण](#testing)
-    - [Design patterns](#design-patterns)
-    - [Scheduling](#scheduling)
-    - [Implement system routines](#implement-system-routines)
-    - [String searching & manipulations](#string-searching--manipulations)
+    - [डिजाइन पैटर्न्स](#design-patterns)
+    - [निर्धारण](#scheduling)
+    - [सिस्टम रूटीन लागू करें](#implement-system-routines)
+    - [स्ट्रिंग खोज और तिकड़म](#string-searching--manipulations)
 - [आखिरी समीक्षा](#final-review)
 - [पुस्तकें](#books)
 - [कोडिंग अभ्यास/चुनौतियाँ](#coding-exerciseschallenges)
@@ -95,16 +132,16 @@
     - [स्किप लिस्ट](#skip-lists)
     - [Network Flows](#network-flows)
     - [Disjoint Sets & Union Find](#disjoint-sets--union-find)
-    - [Math for Fast Processing](#math-for-fast-processing)
+    - [फास्ट प्रोसेसिंग के लिए गणित](#math-for-fast-processing)
     - [Treap](#treap)
-    - [Linear Programming](#linear-programming)
-    - [ज्यामिति, कॉन्वेक्स हल](#ज्यामिति-कॉन्वेक्स-हल)
-    - [Discrete math](#discrete-math)
-    - [मशीन लर्निंग](#मशीन-लर्निंग)
-    - [गो](#गो)
-- [कुछ विषयो की अधिक जानकारी](#कुछ-विषयोकी-अधिक-जानकारी)
-- [विडियो शृखला](#विडियो-शृखला)
-- [जब आपको नौकरी मिल जाये](#जब-आपको-नौकरी-मिल-जाये)
+    - [लीनियर प्रोग्रामिंग](#linear-programming)
+    - [ज्यामिति, कॉन्वेक्स हल](#geometry-convex-hull)
+    - [डिस्क्रीट मैथ](#discrete-math)
+    - [मशीन लर्निंग](#machine-learning)
+    - [गो](#go)
+- [कुछ विषयो की अधिक जानकारी](#additional-detail-on-some-subjects)
+- [विडियो शृखला](#video-series)
+- [जब आपको नौकरी मिल जाये](#computer-science-courses)
 
 ---
 
@@ -312,8 +349,8 @@ memory" का एरर न दे, और तब मुझे कोई वै
 
 अपना खुद का मुफ्त बनाएं:
  - [फ़्लैशकार्ड साइट रेपो] (https://github.com/jwasham/computer-science-flash-cards)
- - [मेरे फ़्लैश कार्ड डेटाबेस (पुराने - 1200 कार्ड) :](https://github.com/jwasham/computer-science-flash-cards/blob/master/cards-jwasham.db)
- - [मेरा फ़्लैश कार्ड डेटाबेस (नया - 1800 कार्ड) :](https://github.com/jwasham/computer-science-flash-cards/blob/master/cards-jwasham-extreme.db)
+ - [मेरे फ़्लैश कार्ड डेटाबेस (पुराने - 1200 कार्ड) :](https://github.com/jwasham/computer-science-flash-cards/blob/main/cards-jwasham.db)
+ - [मेरा फ़्लैश कार्ड डेटाबेस (नया - 1800 कार्ड) :](https://github.com/jwasham/computer-science-flash-cards/blob/main/cards-jwasham-extreme.db)
 
 ध्यान रखें मैं जहाज़ के ऊपर गया और विधानसभा भाषा और पायथन तुल्यता से लेकर मशीन सीखने और आंकड़ों तक सब कुछ कवर करने वाले कार्ड हैं। इसकी आवश्यकता के लिए यह बहुत अधिक है
 
@@ -412,11 +449,7 @@ memory" का एरर न दे, और तब मुझे कोई वै
     - एक स्वचालित रीसाइज़िंग वेक्टर को लागू करें
     - [ ] विवरण:
         - [एरे  (विडियो)](https://www.coursera.org/learn/data-structures/lecture/OsBSF/arrays)
-        - [Basic Arrays (विडियो)](https://archive.org/details/0102WhatYouShouldKnow/02_04-basicArrays.mp4)
-        - [Multi-dim (विडियो)](https://archive.org/details/0102WhatYouShouldKnow/02_05-multidimensionalArrays.mp4)
         - [Dynamic Arrays (विडियो)](https://www.coursera.org/learn/data-structures/lecture/EwbnV/dynamic-arrays)
-        - [Jagged Arrays (विडियो)](https://archive.org/details/0102WhatYouShouldKnow/02_06-jaggedArrays.mp4)
-        - [Resizing arrays (विडियो)](https://archive.org/details/0102WhatYouShouldKnow/03_01-resizableArrays.mp4)
     - [ ] Implement a vector (mutable array with automatic resizing):
         - [ ] Practice coding using arrays and pointers, and pointer math to jump to an index instead of using indexing.
         - [ ] new raw data array with allocated memory
@@ -478,14 +511,11 @@ memory" का एरर न दे, और तब मुझे कोई वै
 
 - ### Stack
     - [ ] [Stacks (विडियो)](https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks)
-    - [ ] [Using Stacks Last-In First-Out (विडियो)](https://archive.org/details/0102WhatYouShouldKnow/05_01-usingStacksForLast-inFirst-out.mp4)
     - [ ] Will not implement. Implementing with array is trivial.
 
 - ### Queue
-    - [ ] [Using Queues First-In First-Out(विडियो)](https://archive.org/details/0102WhatYouShouldKnow/05_03-usingQueuesForFirst-inFirst-out.mp4)
     - [ ] [Queue (विडियो)](https://www.coursera.org/learn/data-structures/lecture/EShpq/queue)
     - [ ] [Circular buffer/FIFO](https://en.wikipedia.org/wiki/Circular_buffer)
-    - [ ] [Priority Queues (विडियो)](https://archive.org/details/0102WhatYouShouldKnow/05_04-priorityQueuesAndDeques.mp4)
     - [ ] Implement using linked-list, with tail pointer:
         - enqueue(value) - adds value at position at tail
         - dequeue() - returns value and removes least recently added element (front)
@@ -512,10 +542,6 @@ memory" का एरर न दे, और तब मुझे कोई वै
         - [ ] [(Advanced) Perfect hashing (विडियो)](https://www.youtube.com/watch?v=N0COwN14gt0&list=PL2B4EEwhKD-NbwZ4ezj7gyc_3yNrojKM9&index=4)
     
     - [ ] Online Courses:
-        - [ ] [Understanding Hash Functions (विडियो](https://archive.org/details/0102WhatYouShouldKnow/06_02-understandingHashFunctions.mp4)
-        - [ ] [Using Hash Tables (विडियो)](https://archive.org/details/0102WhatYouShouldKnow/06_03-usingHashTables.mp4)
-        - [ ] [Supporting Hashing (विडियो)](https://archive.org/details/0102WhatYouShouldKnow/06_04-supportingHashing.mp4)
-        - [ ] [Language Support Hash Tables (विडियो)](https://archive.org/details/0102WhatYouShouldKnow/06_05-languageSupportForHashTables.mp4)
         - [ ] [Core Hash Tables (विडियो)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/m7UuP/core-hash-tables)
         - [ ] [Data Structures (विडियो)](https://www.coursera.org/learn/data-structures/home/week/3)
         - [ ] [Phone Book Problem (विडियो)](https://www.coursera.org/learn/data-structures/lecture/NYZZP/phone-book-problem)
@@ -548,7 +574,7 @@ memory" का एरर न दे, और तब मुझे कोई वै
         - binary search using recursion
 
 - ### Bitwise operations
-    - [ ] [Bits cheat sheet](https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/bits-cheat-sheet.pdf) - you should know many of the powers of 2 from (2^1 to 2^16 and 2^32)
+    - [ ] [Bits cheat sheet](https://github.com/jwasham/coding-interview-university/blob/main/extras/cheat%20sheets/bits-cheat-sheet.pdf) - you should know many of the powers of 2 from (2^1 to 2^16 and 2^32)
     - [ ] Get a really good understanding of manipulating bits with: &, |, ^, ~, >>, <<
         - [ ] [words](https://en.wikipedia.org/wiki/Word_(computer_architecture))
         - [ ] Good intro:
@@ -798,12 +824,6 @@ memory" का एरर न दे, और तब मुझे कोई वै
     - [ ] [lecture begins at 35:00 (विडियो)](https://www.youtube.com/watch?v=q7K9otnzlfE&index=9&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
     - [ ] [lecture begins at 23:50 (विडियो)](https://www.youtube.com/watch?v=TvqIGu9Iupw&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&index=10)
 
-- [ ] UC बर्कले:
-    - [ ] [CS 61B Lecture 29: Sorting I (विडियो)](https://www.youtube.com/watch?v=EiUvYS2DT6I&list=PL4BBB74C7D2A1049C&index=29)
-    - [ ] [CS 61B Lecture 30: Sorting II (विडियो)](https://www.youtube.com/watch?v=2hTY3t80Qsk&list=PL4BBB74C7D2A1049C&index=30)
-    - [ ] [CS 61B Lecture 32: Sorting III (विडियो)](https://www.youtube.com/watch?v=Y6LOLpxg6Dc&index=32&list=PL4BBB74C7D2A1049C)
-    - [ ] [CS 61B Lecture 33: Sorting V (विडियो)](https://www.youtube.com/watch?v=qNMQ4ly43p4&index=33&list=PL4BBB74C7D2A1049C)
-
 - [ ] - Merge sort code:
     - [ ] [Using output array](http://www.cs.yale.edu/homes/aspnes/classes/223/examples/sorting/mergesort.c)
     - [ ] [In-place](https://github.com/jwasham/practice-cpp/blob/master/merge_sort/merge_sort.cc)
@@ -899,7 +919,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
     - when it is appropriate to use it
     - how is tail recursion better than not?
         - [ ] [What Is Tail Recursion Why Is It So Bad?](https://www.quora.com/What-is-tail-recursion-Why-is-it-so-bad)
-        - [ ] [Tail Recursion (विडियो)](https://www.youtube.com/watch?v=L1jjXGfxozc)
+        - [ ] [Tail Recursion (विडियो)](https://www.coursera.org/lecture/programming-languages/tail-recursion-YZic1)
  
 - ### Dynamic Programming
     - This subject can be pretty difficult, as each DP soluble problem must be defined as a recursion relation, and coming up with it can be tricky.
@@ -1120,7 +1140,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
         - For even more, see "Mining Massive Datasets" video series in the Video Series section.
     - [ ] Practicing the system design process: Here are some ideas to try working through on paper, each with some documentation on how it was handled in the real world:
         - review: [System Design from HiredInTech](http://www.hiredintech.com/system-design/)
-        - [cheat sheet](https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/system-design.pdf)
+        - [cheat sheet](https://github.com/jwasham/coding-interview-university/blob/main/extras/cheat%20sheets/system-design.pdf)
         - flow:
             1. Understand the problem and scope:
                 - define the use cases, with interviewer's help
@@ -1374,9 +1394,7 @@ Take coding challenges every day, as many as you can.
     - [हैकररैंक](https://www.hackerrank.com/)
     - [कोदिलिटी](https://codility.com/programmers/)
     - [इंटरव्यूकेक](https://www.interviewcake.com/)
-    - [इंटरव्यूबिट](https://www.interviewbit.com/invite/icjf)
-
-    - [प्रोग्रामिंग लैंग्वेज में सुधार करने के लिए](http://exercism.io/languages)
+    - [इंटरव्यूबिट](https://www.interviewbit.com)
 
 ## Once you're closer to the interview
 
@@ -1606,7 +1624,6 @@ Take coding challenges every day, as many as you can.
         - [ ] [Google's Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning--ud730)
         - [ ] [Google/Kaggle Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree-by-google--nd009)
         - [ ] [Self-Driving Car Engineer Nanodegree](https://www.udacity.com/drive)
-        - [ ] [Metis Online Course ($99 for 2 months)](http://www.thisismetis.com/explore-data-science)
     - Resources:
         - Great book: Data Science from Scratch: First Principles with Python: https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X
         - Data School: http://www.dataschool.io/
@@ -1668,7 +1685,7 @@ Sit back and enjoy. "netflix and skill" :P
 
 - [ ] [कंप्यूटर विज्ञान ७०, ००१ – वसंत २०१५ - Discrete Mathematics and Probability Theory](https://www.youtube.com/playlist?list=PL-XXv-cvA_iD8wQm8U0gG_Z1uHjImKXFy)
 
-- [ ] [Discrete Mathematics (१९ विडियो)](https://www.youtube.com/playlist?list=PL3o9D4Dl2FJ9q0_gtFXPh_H4POI5dK0yG)
+- [ ] [Discrete Mathematics (१९ विडियो)](https://www.youtube.com/playlist?list=PLWX710qNZo_sNlSWRMVIh6kfTjolNaZ8t)
 
 - [ ] CSE373 - एल्गोरिदम का विश्लेषण (२५ विडियो)
     - [एल्गोरिथ्म डिजाइन मैनुअल से Skiena व्याख्यान](https://www.youtube.com/watch?v=ZFjhkohHdAA&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&index=1)
@@ -1713,7 +1730,7 @@ Sit back and enjoy. "netflix and skill" :P
 
 ## शायद
 
-http://www.gainlo.co/ - बड़ी कंपनी के मोक इंटरव्यू
+http://www.gainlo.co/#!/ - बड़ी कंपनी के मोक इंटरव्यू
 
 ---
 
