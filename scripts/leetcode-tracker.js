@@ -4,7 +4,7 @@
 // the browser, you'll see all question which you finished striken off
 
 var finished = new Set([
-    1, 9,
+    1, 9, 13
 ])
 var extractQNoFromNode = (node) => Number(node.innerText.split('. ')[0])
 var strikeThoughNode = (node) => node.style.setProperty("text-decoration", "line-through");
